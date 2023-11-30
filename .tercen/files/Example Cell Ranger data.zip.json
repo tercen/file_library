@@ -1,0 +1,46 @@
+{
+ "kind": "FileDocument",
+ "id": "Example Cell Ranger data.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "Example data set.",
+ "name": "Example Cell Ranger data.zip",
+ "createdBy": "",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [
+  "fcs"
+ ],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "authors": [],
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "dataUri": "6b/93/6b93afcb-f6e6-4bbb-818f-59ae1817f5f9",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 2438
+}
