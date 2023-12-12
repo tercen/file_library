@@ -5,7 +5,6 @@
  "rev": "",
  "description": "",
  "name": ".gitattributes",
- "createdBy": "",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -27,7 +26,6 @@
   "uri": ""
  },
  "version": "",
- "authors": [],
  "isPublic": false,
  "projectId": "",
  "folderId": "",

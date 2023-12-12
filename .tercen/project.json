@@ -5,7 +5,6 @@
  "rev": "",
  "description": "https://github.com/tercen/file_library",
  "name": "",
- "createdBy": "",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -27,6 +26,5 @@
   "uri": ""
  },
  "version": "",
- "authors": [],
  "isPublic": true
 }

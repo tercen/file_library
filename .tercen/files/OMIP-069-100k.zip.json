@@ -5,7 +5,6 @@
  "rev": "",
  "description": "Example data set.",
  "name": "OMIP-069-100k.zip",
- "createdBy": "",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -35,11 +34,10 @@
   "uri": ""
  },
  "version": "",
- "authors": [],
  "isPublic": false,
  "projectId": "",
  "folderId": "",
- "dataUri": "64/0e/640e2190-a425-4ef2-812d-6b3f824906bf",
+ "dataUri": "f6/2c/f62cf283e4e06ca69051018c7a766a4c3f8a27f53228833957b7620d60d8d87f",
  "metadata": {
   "kind": "FileMetadata",
   "contentType": "",

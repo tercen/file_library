@@ -5,7 +5,6 @@
  "rev": "",
  "description": "Example data set.",
  "name": "Example Cell Ranger data.zip",
- "createdBy": "",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -23,17 +22,22 @@
  "tags": [
   "fcs"
  ],
- "meta": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  }
+ ],
  "url": {
   "kind": "Url",
   "uri": ""
  },
  "version": "",
- "authors": [],
  "isPublic": false,
  "projectId": "",
  "folderId": "",
- "dataUri": "6b/93/6b93afcb-f6e6-4bbb-818f-59ae1817f5f9",
+ "dataUri": "02/ee/02eef33d6a97251961f3c1599cb149bdf7900984bf88edcbe687c15deee8bde1",
  "metadata": {
   "kind": "FileMetadata",
   "contentType": "",
