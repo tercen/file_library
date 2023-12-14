@@ -1,10 +1,10 @@
 {
  "kind": "FileDocument",
- "id": "Example Cell Ranger data.zip",
+ "id": "Demo_FCS_Files.zip",
  "isDeleted": false,
  "rev": "",
- "description": "Example data set.",
- "name": "Example Cell Ranger data.zip",
+ "description": "FCS demo file",
+ "name": "Demo_FCS_Files.zip",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -19,9 +19,7 @@
   "value": ""
  },
  "urls": [],
- "tags": [
-  "fcs"
- ],
+ "tags": [],
  "meta": [
   {
    "kind": "Pair",
@@ -37,7 +35,7 @@
  "isPublic": false,
  "projectId": "",
  "folderId": "",
- "dataUri": "02/ee/02eef33d6a97251961f3c1599cb149bdf7900984bf88edcbe687c15deee8bde1",
+ "dataUri": "b6/12/b6127bc8-c1bb-4267-a367-f3a632824c4a",
  "metadata": {
   "kind": "FileMetadata",
   "contentType": "",
@@ -46,5 +44,5 @@
   "contentLanguage": "",
   "md5Hash": ""
  },
- "size": 2438
+ "size": 19966165
 }
